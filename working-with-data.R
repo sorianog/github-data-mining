@@ -1,7 +1,7 @@
 # Working with Data
 
 # Set the working directory
-setwd("C:/Pluralsight")
+setwd(getwd())
 
 # Read a tab-delimited data file
 cars <- read.table(
