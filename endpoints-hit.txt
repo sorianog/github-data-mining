@@ -1,6 +1,0 @@
-https://api.github.com/repos/{userName}/{repoName}/contributors
-https://api.github.com/users/{userName}/repos
-https://api.github.com/users/{userName}/followers
-
-Quincy: 2349 contributions, 27 repos, # of followers
-BerkeleyTrue: # contributions, # repos, # of followers
